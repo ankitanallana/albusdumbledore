@@ -4,6 +4,7 @@
 def reverseTheString(str):
     # Write your program here
     # Return the string
+    return "stub"
 
 
 s = "the quick brown fox jumps over the lazy dog"
